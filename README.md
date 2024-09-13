@@ -1,5 +1,6 @@
 # GPT2
-✨ GPT2 手撕代码，帮助理解模型细节
+# ✨ GPT-2 Code Walkthrough: Understanding the Model's Details
 
-* model.py GPT2模型具体实现
-* GPT-loss.ipynb，理解模型loss是怎么计算的
+model.py - GPT-2 Model Implementation
+
+GPT-loss.ipynb - Understanding How GPT Loss is Computed
