@@ -1,4 +1,3 @@
-# GPT2
 # ✨ GPT-2 Code Walkthrough: Understanding the Model's Details
 
 model.py - GPT-2 Model Implementation
