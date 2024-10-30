@@ -1,0 +1,6 @@
+nltk
+tqdm
+pytest
+hypothesis
+toolz
+mypy
