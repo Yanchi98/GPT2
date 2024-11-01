@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7958a026-b5f2-43ec-a73f-758e99c7e34b" name="gpt2_train_sample">
+        <fileTransfer rootFolder="/root/autodl-tmp/GPT2" accessType="SFTP" host="region-46.seetacloud.com" port="22082" sshConfigId="5954c289-f88b-48a5-a6e7-849d30dd5330" sshConfig="root@region-46.seetacloud.com:22082 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
